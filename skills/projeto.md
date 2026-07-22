@@ -10,7 +10,7 @@ O resultado deve parecer um projeto premium, não apenas um redesign.
 
 ## Site atual
 
-https://www.empresa.com.br
+https://bauten.cc/
 
 Analise cuidadosamente este site antes de propor qualquer solução.
 
