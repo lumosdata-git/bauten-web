@@ -68,6 +68,8 @@ Os valores estão no painel do Supabase em **Settings → API Keys** e **Setting
 
 Use a chave **Publishable** ou a chave legada `anon`. Nunca utilize `service_role` no frontend e nunca publique `.env.local`.
 
+As configurações de ambiente do Supabase ficam disponíveis no Discord da Lumos, no canal ou espaço destinado aos colaboradores autorizados. Solicite acesso à equipe responsável e nunca publique essas credenciais em commits, issues ou mensagens públicas.
+
 ## Configuração do Supabase
 
 1. Crie um projeto no Supabase.
