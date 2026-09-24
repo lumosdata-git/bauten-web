@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+
+# Imagens brutas locais; o deploy usa apenas as versões otimizadas.
+public/images/*/*.jpg
+public/images/*/*.jpeg
+public/images/*/*.png
+!public/images/blog/**
+!public/images/bauten/**
+!public/images/hero/b.jpg
+!public/images/hero/socios.jpg
